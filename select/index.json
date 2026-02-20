@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "眼鏡の男の子",
+  "base_artist": "BEYOOOOONDS",
+  "createdAt": "2026-02-20T07:57:47.341575Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "眼鏡の男の子",
+      "artist": "BEYOOOOONDS",
+      "has_synced": true,
+      "path": "select/01_眼鏡の男の子_BEYOOOOONDS.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "眼鏡の男の子",
+      "artist": "BEYOOOOONDS",
+      "has_synced": false,
+      "path": "select/pl_01_眼鏡の男の子_BEYOOOOONDS.txt"
+    }
+  ]
+}
